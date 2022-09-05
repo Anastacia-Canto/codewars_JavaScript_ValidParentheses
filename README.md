@@ -22,3 +22,12 @@ Constraints
 ```
 0 <= input.length <= 100
 ```
+
+To install Jest to run the tests:
+```
+npm install --save-dev jest
+```
+To run the test:
+```
+npm test
+```
